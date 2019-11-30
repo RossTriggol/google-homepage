@@ -1,0 +1,28 @@
+.nav .left li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.nav .right li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav .right {
+    float: right;
+}
+
+.nav .left {
+    float: left;
+}
+
+.nav {
+    margin-top: 20px;
+}
+
+.logo img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    clear: both;
+}
